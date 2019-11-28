@@ -1,10 +1,17 @@
 ---
 templateKey: index-page
+introBanner:
+  backgroundImage: /img/flavor_wheel.jpg
+  button: Join Us
+  description: >-
+    Freelancers are expected to pay taxes every quarter, called Estimated
+    Quarterly Taxes. If those payments are not made, there is a 4% penalty.
+  header: Freelancers deserve the same benefits as employees.
+  subheader: Starting with tax withholding.
 title: Great coffee with a conscience
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
-subheadingtwo: test subheading two
 mainpitch:
   title: Why Kaldi
   description: >
